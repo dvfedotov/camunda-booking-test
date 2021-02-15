@@ -13,6 +13,6 @@ public class TaskCancelHotel implements JavaDelegate {
 
     @Override
     public void execute(DelegateExecution delegateExecution) throws Exception {
-        log.info("******* TaskCancelHotel *********** ");
+        log.info("******* TaskCancelHotel *********** "+ delegateExecution.getProcessBusinessKey());
     }
 }

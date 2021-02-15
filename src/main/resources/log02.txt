@@ -1,0 +1,54 @@
+
+ ____                                 _         ____  ____  __  __
+/ ___| __ _ _ __ ___  _   _ _ __   __| | __ _  | __ )|  _ \|  \/  |
+| |   / _` | '_ ` _ \| | | | '_ \ / _` |/ _` | |  _ \| |_) | |\/| |
+| |__| (_| | | | | | | |_| | | | | (_| | (_| | | |_) |  __/| |  | |
+\____/\__,_|_| |_| |_|\__,_|_| |_|\__,_|\__,_| |____/|_|   |_|  |_|
+
+  Spring-Boot:  (v2.3.1.RELEASE)
+  Camunda BPM: (v7.14.0)
+  Camunda BPM Spring Boot Starter: (v7.14.0)
+
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* TaskReserveCar *********** 3
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* processDefinitionId =  38d17860-6f54-11eb-a22e-6c6a77db77f2
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* activityInstanceId =  taskReserveCar:3f5958de-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* currentActivityId  =  taskReserveCar
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* currentActivityName  =  Resrve car
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* processInstanceId   =  3ac99782-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* versionTag =  v7
+2021-02-15 09:30:08.062  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskReserveCar      : ******* version =  9
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 2
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* processDefinitionId =  38d17860-6f54-11eb-a22e-6c6a77db77f2
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* activityInstanceId =  taskBookFlight:450adde9-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityId  =  taskBookFlight
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityName  =  Book flight
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* processInstanceId   =  451879c1-6f54-11eb-a22e-6c6a77db77f2
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* versionTag =  v7
+2021-02-15 09:30:17.612  INFO 18208 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* version =  9
+******* A process has finished: 38d17860-6f54-11eb-a22e-6c6a77db77f2*********2
+2021-02-15 09:30:36.729  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** 3
+2021-02-15 09:30:36.730  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  38d17860-6f54-11eb-a22e-6c6a77db77f2
+2021-02-15 09:30:36.730  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:50700adc-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:36.730  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-15 09:30:36.730  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityName  =  Book hotel
+2021-02-15 09:30:36.730  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* processInstanceId   =  3ac99782-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:36.730  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  v7
+2021-02-15 09:30:36.730  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* version =  9
+2021-02-15 09:30:46.016  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 1
+2021-02-15 09:30:46.016  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* processDefinitionId =  1acd941d-6de9-11eb-a6de-6c6a77db77f2
+2021-02-15 09:30:46.017  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* activityInstanceId =  taskBookFlight:55f92057-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:46.017  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityId  =  taskBookFlight
+2021-02-15 09:30:46.017  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityName  =  Book flight
+2021-02-15 09:30:46.017  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* processInstanceId   =  f422ec11-6f53-11eb-8e0a-6c6a77db77f2
+2021-02-15 09:30:46.017  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* versionTag =  v7
+2021-02-15 09:30:46.017  INFO 18208 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* version =  8
+2021-02-15 09:30:57.421  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 3
+2021-02-15 09:30:57.421  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* processDefinitionId =  38d17860-6f54-11eb-a22e-6c6a77db77f2
+2021-02-15 09:30:57.421  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* activityInstanceId =  taskBookFlight:5cc56432-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:57.421  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityId  =  taskBookFlight
+2021-02-15 09:30:57.421  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityName  =  Book flight
+2021-02-15 09:30:57.421  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* processInstanceId   =  3ac99782-6f57-11eb-992b-6c6a77db77f2
+2021-02-15 09:30:57.422  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* versionTag =  v7
+2021-02-15 09:30:57.422  INFO 18208 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookFlight      : ******* version =  9
+******* A process has finished: 1acd941d-6de9-11eb-a6de-6c6a77db77f2*********1
+******* A process has finished: 38d17860-6f54-11eb-a22e-6c6a77db77f2*********3

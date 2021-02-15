@@ -1,0 +1,54 @@
+
+/ ___| __ _ _ __ ___  _   _ _ __   __| | __ _  | __ )|  _ \|  \/  |
+| |   / _` | '_ ` _ \| | | | '_ \ / _` |/ _` | |  _ \| |_) | |\/| |
+| |__| (_| | | | | | | |_| | | | | (_| | (_| | | |_) |  __/| |  | |
+\____/\__,_|_| |_| |_|\__,_|_| |_|\__,_|\__,_| |____/|_|   |_|  |_|
+
+  Spring-Boot:  (v2.3.1.RELEASE)
+  Camunda BPM: (v7.14.0)
+  Camunda BPM Spring Boot Starter: (v7.14.0)
+
+2021-02-13 13:19:01.724  INFO 23440 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2021-02-13 13:19:34.571  INFO 23440 --- [nio-8080-exec-2] ru.dvfedotov.process.TaskReserveCar      : ******* TaskReserveCar *********** 16
+2021-02-13 13:19:41.704  INFO 23440 --- [nio-8080-exec-3] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** 16
+2021-02-13 13:19:41.704  INFO 23440 --- [nio-8080-exec-3] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  c206da04-6de1-11eb-9819-6c6a77db77f2
+2021-02-13 13:19:41.704  INFO 23440 --- [nio-8080-exec-3] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:fc412219-6de4-11eb-af7d-6c6a77db77f2
+2021-02-13 13:19:41.704  INFO 23440 --- [nio-8080-exec-3] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-13 13:19:41.704  INFO 23440 --- [nio-8080-exec-3] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  v6
+2021-02-13 13:19:54.899  INFO 23440 --- [nio-8080-exec-4] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 16
+******* A process has finished: c206da04-6de1-11eb-9819-6c6a77db77f2
+2021-02-13 13:21:02.371  INFO 23440 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 6
+2021-02-13 13:21:16.624  INFO 23440 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** null
+2021-02-13 13:21:16.625  INFO 23440 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  e28fd6fe-6d2f-11eb-9518-6c6a77db77f2
+2021-02-13 13:21:16.625  INFO 23440 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:34d4edcf-6de5-11eb-af7d-6c6a77db77f2
+2021-02-13 13:21:16.625  INFO 23440 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-13 13:21:16.625  INFO 23440 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  null
+******* A process has finished: 4f57c4bb-6d2d-11eb-b992-6c6a77db77f2
+******* A process has finished: 4f57c4bb-6d2d-11eb-b992-6c6a77db77f2
+2021-02-13 13:21:45.272  INFO 23440 --- [io-8080-exec-10] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 1
+2021-02-13 13:21:52.543  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** 13
+2021-02-13 13:21:52.543  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  c206da04-6de1-11eb-9819-6c6a77db77f2
+2021-02-13 13:21:52.543  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:4a3d94d2-6de5-11eb-af7d-6c6a77db77f2
+2021-02-13 13:21:52.543  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-13 13:21:52.543  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  v6
+2021-02-13 13:22:03.409  INFO 23440 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskReserveCar      : ******* TaskReserveCar *********** 15
+2021-02-13 13:22:08.967  INFO 23440 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** 14
+2021-02-13 13:22:08.967  INFO 23440 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  c206da04-6de1-11eb-9819-6c6a77db77f2
+2021-02-13 13:22:08.967  INFO 23440 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:5407d575-6de5-11eb-af7d-6c6a77db77f2
+2021-02-13 13:22:08.967  INFO 23440 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-13 13:22:08.967  INFO 23440 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  v6
+******* A process has finished: f2f32ca8-6dd0-11eb-a06b-6c6a77db77f2
+2021-02-13 13:22:21.609  INFO 23440 --- [nio-8080-exec-8] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** null
+******* A process has finished: 4f57c4bb-6d2d-11eb-b992-6c6a77db77f2
+2021-02-13 13:22:39.357  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 13
+2021-02-13 13:22:47.139  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** 15
+2021-02-13 13:22:47.139  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  c206da04-6de1-11eb-9819-6c6a77db77f2
+2021-02-13 13:22:47.139  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:6ac86b66-6de5-11eb-af7d-6c6a77db77f2
+2021-02-13 13:22:47.139  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-13 13:22:47.140  INFO 23440 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  v6
+2021-02-13 13:22:54.603  INFO 23440 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 14
+******* A process has finished: e28fd6fe-6d2f-11eb-9518-6c6a77db77f2
+******* A process has finished: c206da04-6de1-11eb-9819-6c6a77db77f2
+2021-02-13 13:23:22.003  INFO 23440 --- [nio-8080-exec-1] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 15
+******* A process has finished: c206da04-6de1-11eb-9819-6c6a77db77f2
+******* A process has finished: c206da04-6de1-11eb-9819-6c6a77db77f2
