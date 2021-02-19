@@ -14,6 +14,14 @@ public class TaskBookFlight implements JavaDelegate {
 
     private final Logger log = LoggerFactory.getLogger(TaskBookFlight.class);
 
+
+
+
+
+
+
+
+
     @Override
     public void execute(DelegateExecution delegateExecution) throws Exception {
         log.info("******* TaskBookFlight *********** "+ delegateExecution.getProcessBusinessKey());
@@ -42,6 +50,13 @@ public class TaskBookFlight implements JavaDelegate {
 
         int version = processDefinition.getVersion();
         log.info("******* version =  " + version);
+
+
+        if((Boolean) delegateExecution.getVariable("isError")){
+            log.info("#############Exception is   " + (Boolean) delegateExecution.getVariable("isError"));
+            throw new RuntimeException("in TaskBookFlight");
+        }
+
 
     }
 }

@@ -48,5 +48,10 @@ public class TaskBookHotel implements JavaDelegate {
         int version = processDefinition.getVersion();
         log.info("******* version =  " + version);
 
+        if((Boolean) delegateExecution.getVariable("isError")){
+            log.info("#############Exception is   " + (Boolean) delegateExecution.getVariable("isError"));
+            throw new Exception("TaskBookHotel ");
+        }
+
     }
 }

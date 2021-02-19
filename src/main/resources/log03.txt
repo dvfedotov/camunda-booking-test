@@ -1,0 +1,61 @@
+2021-02-15 16:57:41.934  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* TaskReserveCar *********** 4
+2021-02-15 16:57:41.934  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* processDefinitionId =  82614dcf-6f94-11eb-bdde-6c6a77db77f2
+2021-02-15 16:57:41.934  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* activityInstanceId =  taskReserveCar:c58156c8-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:57:41.934  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* currentActivityId  =  taskReserveCar
+2021-02-15 16:57:41.934  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* currentActivityName  =  Resrve car
+2021-02-15 16:57:41.934  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* processInstanceId   =  beb3171b-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:57:41.935  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* versionTag =  v8
+2021-02-15 16:57:41.935  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : ******* version =  10
+2021-02-15 16:57:41.935  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskReserveCar      : #############Exception is   true
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** 3
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  82614dcf-6f94-11eb-bdde-6c6a77db77f2
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:cc02d504-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityName  =  Book hotel
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* processInstanceId   =  607fcac8-6f95-11eb-90a6-6c6a77db77f2
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  v8
+2021-02-15 16:57:52.848  INFO 20872 --- [nio-8080-exec-5] ru.dvfedotov.process.TaskBookHotel       : ******* version =  10
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* TaskBookHotel *********** 4
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* processDefinitionId =  82614dcf-6f94-11eb-bdde-6c6a77db77f2
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* activityInstanceId =  taskBookHotel:d84cbca0-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityId  =  taskBookHotel
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* currentActivityName  =  Book hotel
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* processInstanceId   =  beb3171b-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* versionTag =  v8
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : ******* version =  10
+2021-02-15 16:58:13.466  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskBookHotel       : #############Exception is   true
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* TaskCancelCar *********** 4
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* processDefinitionId =  82614dcf-6f94-11eb-bdde-6c6a77db77f2
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* activityInstanceId =  taskCancelCar:d84e4347-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* currentActivityId  =  taskCancelCar
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* currentActivityName  =  Cansel car
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* processInstanceId   =  beb3171b-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* versionTag =  v8
+2021-02-15 16:58:13.476  INFO 20872 --- [nio-8080-exec-6] ru.dvfedotov.process.TaskCancelCar       : ******* version =  10
+******* A process has finished: 82614dcf-6f94-11eb-bdde-6c6a77db77f2*********4
+2021-02-15 16:58:24.933  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* TaskBookFlight *********** 3
+2021-02-15 16:58:24.933  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* processDefinitionId =  82614dcf-6f94-11eb-bdde-6c6a77db77f2
+2021-02-15 16:58:24.933  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* activityInstanceId =  taskBookFlight:df229d71-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:58:24.933  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityId  =  taskBookFlight
+2021-02-15 16:58:24.933  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* currentActivityName  =  Book flight
+2021-02-15 16:58:24.933  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* processInstanceId   =  607fcac8-6f95-11eb-90a6-6c6a77db77f2
+2021-02-15 16:58:24.934  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* versionTag =  v8
+2021-02-15 16:58:24.934  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : ******* version =  10
+2021-02-15 16:58:24.934  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskBookFlight      : #############Exception is   true
+2021-02-15 16:58:24.936  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* TaskCancelHotel *********** 3
+2021-02-15 16:58:24.937  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* processDefinitionId =  82614dcf-6f94-11eb-bdde-6c6a77db77f2
+2021-02-15 16:58:24.937  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* activityInstanceId =  taskCancelHotel:df2312a9-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:58:24.937  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* currentActivityId  =  taskCancelHotel
+2021-02-15 16:58:24.937  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* currentActivityName  =  Cancel hotel
+2021-02-15 16:58:24.937  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* processInstanceId   =  607fcac8-6f95-11eb-90a6-6c6a77db77f2
+2021-02-15 16:58:24.937  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* versionTag =  v8
+2021-02-15 16:58:24.937  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelHotel     : ******* version =  10
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* TaskCancelCar *********** 3
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* processDefinitionId =  82614dcf-6f94-11eb-bdde-6c6a77db77f2
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* activityInstanceId =  taskCancelCar:df2339ba-6f95-11eb-be0a-6c6a77db77f2
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* currentActivityId  =  taskCancelCar
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* currentActivityName  =  Cansel car
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* processInstanceId   =  607fcac8-6f95-11eb-90a6-6c6a77db77f2
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* versionTag =  v8
+2021-02-15 16:58:24.938  INFO 20872 --- [nio-8080-exec-7] ru.dvfedotov.process.TaskCancelCar       : ******* version =  10
+******* A process has finished: 82614dcf-6f94-11eb-bdde-6c6a77db77f2*********3

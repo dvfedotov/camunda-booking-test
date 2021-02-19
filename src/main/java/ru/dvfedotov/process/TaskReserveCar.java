@@ -43,5 +43,9 @@ public class TaskReserveCar implements JavaDelegate {
         int version = processDefinition.getVersion();
         log.info("******* version =  " + version);
 
+        if((Boolean) delegateExecution.getVariable("isError")){
+            log.info("#############Exception is   " + (Boolean) delegateExecution.getVariable("isError"));
+        }
+
     }
 }
